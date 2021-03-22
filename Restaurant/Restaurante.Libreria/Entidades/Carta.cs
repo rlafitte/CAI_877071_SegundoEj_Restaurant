@@ -9,26 +9,15 @@ namespace Restaurant.Libreria.Entidades
     public class Carta
     {
 
-        private int i_cantidad;
+
         private double d_precio;
         private string s_seccion;
 
         private Producto[] product;
 
-        public int Cantidad
-        {
-            get
-            {
-                return this.i_cantidad;
-            }
-            set
-            {
-                this.i_cantidad = value;
-            }
 
-        }
 
-        //double preico
+        //double precio
         //string seccion
 
         public double Precio

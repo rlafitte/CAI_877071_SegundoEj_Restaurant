@@ -1,2 +1,10 @@
 C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\obj\Debug\Restaurant.Consola.csprojAssemblyReference.cache
 C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\obj\Debug\Restaurant.Consola.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\bin\Debug\Restaurant.Consola.exe.config
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\bin\Debug\Restaurant.Consola.exe
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\bin\Debug\Restaurant.Consola.pdb
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\bin\Debug\Restaurante.Libreria.dll
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\bin\Debug\Restaurante.Libreria.pdb
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\obj\Debug\Restaurant.Consola.csproj.CopyComplete
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\obj\Debug\Restaurant.Consola.exe
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\obj\Debug\Restaurant.Consola.pdb

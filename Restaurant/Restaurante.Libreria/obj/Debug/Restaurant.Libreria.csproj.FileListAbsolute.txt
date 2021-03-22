@@ -1,0 +1,6 @@
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurante.Libreria\obj\Debug\Restaurant.Libreria.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurante.Libreria\obj\Debug\Restaurant.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurante.Libreria\bin\Debug\Restaurante.Libreria.dll
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurante.Libreria\bin\Debug\Restaurante.Libreria.pdb
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurante.Libreria\obj\Debug\Restaurante.Libreria.dll
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurante.Libreria\obj\Debug\Restaurante.Libreria.pdb

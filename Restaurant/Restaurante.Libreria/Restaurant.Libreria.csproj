@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="Entidades\Carta.cs" />
     <Compile Include="Entidades\Mesa.cs" />
+    <Compile Include="Entidades\Mozo.cs" />
+    <Compile Include="Entidades\Pedido.cs" />
     <Compile Include="Entidades\Producto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
