@@ -11,6 +11,11 @@ namespace Restaurant.Consola
     {
         static void Main(string[] args)
         {
+            Carta Ca = new Carta();
+            Mesa Me = new Mesa();
+            Mozo Mo = new Mozo();
+            Pedido Pe = new Pedido();
+            Producto Pr = new Producto();
             
         }
     }
