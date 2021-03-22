@@ -1,0 +1,2 @@
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\obj\Debug\Restaurant.Consola.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEj_Restaurant\Restaurant\Restaurant.Consola\obj\Debug\Restaurant.Consola.csproj.CoreCompileInputs.cache
